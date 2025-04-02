@@ -1,0 +1,9 @@
+# Ignore compiled files and JARs 
+bin/ 
+dist/ 
+*.class 
+*.jar 
+ 
+# Ignore NetBeans project files 
+nbproject/ 
+build/ 
